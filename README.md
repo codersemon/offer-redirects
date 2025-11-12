@@ -226,9 +226,10 @@ GNU General Public License for more details.
 
 ## 👨‍💻 Author
 
-**Emon Khan**
+
 - GitHub: [@codersemon](https://github.com/codersemon)
 - Website: [emonkhan.me](https://emonkhan.me)
+- Linkedin: [codersemon](https://www.linkedin.com/in/codersemon/)
 
 ## 🙏 Support
 
@@ -240,7 +241,7 @@ If you find this plugin helpful, please consider:
 
 ## 📧 Contact
 
-For questions or support, please open an issue on GitHub or contact at your.email@example.com
+For questions or support, please open an issue on GitHub or contact at contact@emonkhan.me
 
 ---
 
