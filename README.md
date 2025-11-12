@@ -226,7 +226,7 @@ GNU General Public License for more details.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Emon Khan**
 - GitHub: [@codersemon](https://github.com/codersemon)
 - Website: [emonkhan.me](https://emonkhan.me)
 
